@@ -6,5 +6,4 @@ header-img: "img/plane2.jpg"
 ---
 
 
-
-我的 [蝉游记](http://sugardream.github.io)
+[动次打次]()
