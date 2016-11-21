@@ -1,31 +1,31 @@
 ---
 layout: page
 title: "About me"
-description: "来，一起舞动青春"
+description: "时光漫步"
 header-img: "img/plane.jpg"
 ---
 
 ##### 自我描述：
 
-i am 烈火小精钢.
+i am 店小二.
 
-you can call me 小精钢......
+you can call me dianxiaoer......
 
 ♂
 
-18
+21
 
 > 来，靠近我，聆听我的心声！！！
 
 <center>
-    <p><img src="http://p1.bpimg.com/4851/4cc113ad7fbcb2d8.jpg" align="center"></p>
+    <p><img src="http://ww3.sinaimg.cn/mw690/0065PbKCgw1fa02pn36wgj30f00b9wgx.jpg" align="center"></p>
 </center>
 
 Ehhhh...I believe this is the path to dream...
 
-在忙碌中经常会回想起冰棒汽水的味道，和那些无所事事一整个夏天的年少。
+如果年轻凝成泪水，很快就会吹干，青春正是长长的风，来自无垠，去向无踪。
 
-——小精钢
+——店小二
 
 
 > Wonderful and glory

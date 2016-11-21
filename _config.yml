@@ -1,8 +1,8 @@
 # Site settings
 title: SugarDream
 header-img: "img/hehua.jpg"
-tagline: "极光"  
-description: "一只特立独行的猪..."  
+tagline: "糖梦"  
+description: "以梦为马，诗酒趁年华"  
 baseurl: ""
 url: "SugarDream.github.io"  
 #url: "http://SugarDream.github.io"
@@ -11,7 +11,7 @@ url: "SugarDream.github.io"
 owner: 
   name: "sugardream"
   email: sclink69@gmali.com
-  bio: "一只特立独行的猪..."
+  bio: "一只特立独行的猪"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
