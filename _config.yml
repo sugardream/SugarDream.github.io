@@ -1,17 +1,17 @@
 # Site settings
-title: 小精钢
+title: SugarDream
 header-img: "img/hehua.jpg"
 tagline: "极光"  
-description: "一丝不苟的男人的魅力，仅次于一丝不挂的女人"  
+description: "一只特立独行的猪..."  
 baseurl: ""
-url: "xiaojinggang.github.io"  
-#url: "http://localhost:4000"
+url: "SugarDream.github.io"  
+#url: "http://SugarDream.github.io"
 
 # About/contact
 owner: 
-  name: "小精钢"
-  email: 1716660559@qq.com
-  bio: "停车坐爱风铃晚，霜叶红于二月花。"
+  name: "sugardream"
+  email: sclink69@gmali.com
+  bio: "一只特立独行的猪..."
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -19,9 +19,9 @@ favicon: img/favicon.ico
 
 douban_username: 
 twitter_username:   
-github_username: xiaojinggang  
+github_username: sugardream  
 facebook_username:   
-weibo_username:   
+weibo_username: 笙歌巷陌凭栏意  
 zhihu_username:   
 
 # Build settings  
@@ -53,7 +53,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "xiaojinggang"
+      author: "sugardream"
       header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
@@ -61,9 +61,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : xiaojinggang
+    short_name : sugardream
   disqus :
-      short_name : xiaojinggang
+      short_name : sugardream
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-66863061-1
