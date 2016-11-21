@@ -5,8 +5,8 @@ header-img: "img/hehua.jpg"
 tagline: "糖梦"  
 description: "以梦为马，诗酒趁年华"  
 =======
-tagline: "极光"  
-description: "一只特立独行的猪"  
+tagline: "糖梦"  
+description: "以梦为马，诗酒趁年华"  
 >>>>>>> origin/master
 baseurl: ""
 url: "SugarDream.github.io"  
@@ -16,11 +16,11 @@ url: "SugarDream.github.io"
 owner: 
   name: "sugardream"
   email: sclink69@gmali.com
-  bio: "一只特立独行的猪"
+  bio: "以梦为马，诗酒趁年华"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.ico
+favicon: img/damotouicon.ico
 
 douban_username: 
 twitter_username:   
